@@ -8,8 +8,8 @@ This Java program calculates and displays the surface area and volume of a cylin
 
 For an input of radius = 5 and height = 10, the output will be:
 
-Area of the cylinder: 471.23889803846896
-Volume of the cylinder: 785.3981633974483
+1. Area of the cylinder: 471.23889803846896
+2. Volume of the cylinder: 785.3981633974483
 
 
 
