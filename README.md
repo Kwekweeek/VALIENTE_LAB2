@@ -15,10 +15,10 @@ Volume of the cylinder: 785.3981633974483
 
 ## How to Run
 
-1. Copy the code into `src folder/Main.java`.
-2. Compile with `javac HalfDiamondPattern.java`.
-3. Run with `java HalfDiamondPattern`.
-4. Enter a number when prompted to see the pattern.
+1. Go to the src folder and find the Main.java file.
+2. Copy the code provided and paste it into the Main.java file in your VS Code.
+3. After compiling, run the program with: java Main
+4. When prompted, enter the radius and height of the cylinder to see the calculated surface area and volume.
 
 ## Notes
 
